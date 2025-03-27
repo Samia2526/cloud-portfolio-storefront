@@ -1,7 +1,7 @@
 
 # 📊 Cloud Portfolio Project: Storefront Inventory Analytics (2023)
 
-## 👩‍💻 By Samia Araujo Lima – 2302197
+## 👩‍💻 By Samia Araujo 
 
 This portfolio project demonstrates a complete cloud-based data analytics pipeline built on AWS, using a real-world dataset from the City of Vancouver. The project includes data ingestion, profiling, transformation, cataloging, analysis, and implementation of governance and security best practices.
 
